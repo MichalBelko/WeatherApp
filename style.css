@@ -91,6 +91,10 @@ main {
   font-weight: bold;
 }
 
+::placeholder {
+  font-weight: normal;
+}
+
 .cardRight {
   justify-content: center;
   align-items: center;
