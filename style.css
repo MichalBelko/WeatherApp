@@ -119,7 +119,7 @@ main {
   position: absolute;
   top: 0rem;
   right: -0.5rem;
-  width: 4rem;
+  width: 5rem;
   height: 100%;
   padding-left: 1rem;
   background: rgb(18, 73, 109);
@@ -135,6 +135,7 @@ main {
 }
 .city:hover .delete {
   right: -3rem;
+  width: 4rem;
 }
 
 .container.day {
